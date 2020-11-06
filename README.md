@@ -16,7 +16,7 @@ I am self driven passionate programmer who loves to translate solutions to real 
 - Application development using **Android,React,React Native.**
 - Languages- **Java,JavaScript,Python,C++,C,SQL** 
 - Backend development - **NodeJs,ExpressJs,Flask.**
-- Machine learning and data analytics - **Python, Pandas, Numpy.,Tensorflow**
+- Machine learning and data analytics - **Python, Pandas, Numpy,Tensorflow**
 - Indian Premier League
 - Music
 
