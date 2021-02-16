@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 I am Rohan</h1>
 <p align="center">
-I am self driven passionate programmer who loves to translate solutions to real world problems into code. I am currently pursueing bachelor's degree in Computer Engineering  from Pune Institute of Computer Technology. My main areas of interest are mobile app development,backend development,Data Structures and Algorithms,Deep Learning,Blockchain,Digital Designing,Cricket and Music.
+I am self driven passionate programmer who loves to translate solutions to real world problems into code. I am currently pursueing bachelor's degree in Computer Engineering  from Pune Institute of Computer Technology. My main areas of interest are full stack development,Data Structures and Algorithms,Deep Learning,Digital Designing,Cricket and Music.
 </p>
 <h3>📫 How to reach me </h3>
 <hr>
@@ -13,10 +13,11 @@ I am self driven passionate programmer who loves to translate solutions to real 
   <hr>
   
  ### ⚡ Talk to me about
-- Application development using **Android,React,React Native.**
+- Application development using **React,Android,React Native.**
 - Languages- **Java,JavaScript,Python,C++,C,SQL** 
 - Backend development - **NodeJs,ExpressJs,Flask.**
 - Machine learning and data analytics - **Python, Pandas, Numpy,Tensorflow**
+- Data Structures and Algorithms
 - Indian Premier League
 - Music
 
