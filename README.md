@@ -4,7 +4,6 @@ I am self driven passionate programmer who loves to translate solutions to real 
 </p>
 <h3>📫 How to reach me </h3>
 <hr>
-<img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 <div align="center">
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-naik-5a076a185/) [<img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:rohan.nn1203@gmail.com) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rohan_naik_07/) [<img src = "https://img.shields.io/badge/resume-%234285F4.svg?&style=for-the-badge&logo=google-drive&logoColor=white">](https://drive.google.com/file/d/1CUInDFx9Gu6Kx-mlQGQid8OM1efqqg81/view?usp=sharing)<br>
